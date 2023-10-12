@@ -1,0 +1,16 @@
+{
+    "name": "beginner-graphql",
+    "version": "0.0.1",
+    "description": "Tuto on GraphQL from FreeCodeCamp",
+    "main": "index.js",
+    "scripts": {
+        "dev": "graphpack",
+        "build": "graphpack build"
+    },
+    "keywords": ["graphql", "tuto", "freecodecamp"],
+    "author": "LBF38",
+    "license": "MIT",
+    "devDependencies": {
+        "graphpack": "^1.0.9"
+    }
+}
